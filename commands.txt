@@ -1,3 +1,4 @@
+# script simples para operações básicas de matemática.
 Como executar o script via linha de comando usando Python3:
 
 python3 script.py
